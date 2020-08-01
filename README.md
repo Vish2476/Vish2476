@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning  :-- <h2>Python , JavaScript , Flutter , Kotlin , C  </h2>
 - 🔭 I’m currently working on .
-<hr>
+</hr>
 - 📫 How to reach me:-
     <a href="https://www.linkedin.com/in/vishnu-basskar-v-189553151/" style="text-decoration:none">Linkedin</a> ||
     <a href="https://www.facebook.com/vanambasskar.5">Facebook</a> ||
