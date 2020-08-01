@@ -2,6 +2,9 @@
 
 #🌱 I’m currently learning ..
 - 🔭 I’m currently working on .
+
+- 📫 How to reach me: ...
+<a href="https://www.linkedin.com/in/vishnu-basskar-v-189553151/">Linkedin</a>
 <!--
 **Vish2476/Vish2476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
