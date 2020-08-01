@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning  :-- <h2>Python , JavaScript , Flutter , Kotlin , C  </h2>
+- 🌱 I’m currently learning  :-- Python , JavaScript , Flutter , Kotlin , C  
 - 🔭 I’m currently working on .
 </hr>
 - 📫 How to reach me:-
