@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with :- Flutter Development and some Internship Oppurtunities.
 - 💬 Ask me about :- HTML,CSS,Python,Motivation,Program Manging n Organising Events.
 
-#### 📫 How to reach me:-
+#### 📫 How to reach me:-</hr>
 <!--
 [LinkedIn]("https://www.linkedin.com/in/vishnu-basskar-v-189553151/") || -->
     <a href="https://www.linkedin.com/in/vishnu-basskar-v-189553151/">LinkedIn </a> ||
