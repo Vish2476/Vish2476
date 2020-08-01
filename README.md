@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-#🌱 I’m currently learning ..
+- 🌱 I’m currently learning  :-- <h2>Python , JavaScript , Flutter , Kotlin , C  </h2>
 - 🔭 I’m currently working on .
-
-- 📫 How to reach me: ...<hr>
-    <a href="https://www.linkedin.com/in/vishnu-basskar-v-189553151/" style="text-decoration:none">Linkedin</a>
-    <a href="https://www.facebook.com/vanambasskar.5">Facebook</a>
+<hr>
+- 📫 How to reach me:-
+    <a href="https://www.linkedin.com/in/vishnu-basskar-v-189553151/" style="text-decoration:none">Linkedin</a> ||
+    <a href="https://www.facebook.com/vanambasskar.5">Facebook</a> ||
+    <a href="https://www.instagram.com/mr.vish_1999/">Instagram</a>
 <!--
 **Vish2476/Vish2476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
