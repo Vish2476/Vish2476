@@ -8,7 +8,7 @@
     <a href="https://www.instagram.com/mr.vish_1999/">Instagram</a>.
 - 👯 I’m looking to collaborate on :- Projects Realted to the Flutter and some static Web aps.</br>
 - 🤔 I’m looking for help with :- Flutter Development and some Internship Oppurtunities.
-- 💬 Ask me about :- HTML,CSS,Python,Motivation,Program Manging n Organising
+- 💬 Ask me about :- HTML,CSS,Python,Motivation,Program Manging n Organising Events.
 <!--
 **Vish2476/Vish2476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
