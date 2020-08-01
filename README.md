@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning  :-- Python , JavaScript , Flutter , Kotlin , C  
-- 🔭 I’m currently working on .
+- 🔭 I’m currently working on :- Simple and optimied board games in A single website.
 </hr>
 - 📫 How to reach me:-
-    <a href="https://www.linkedin.com/in/vishnu-basskar-v-189553151/" style="text-decoration:none">Linkedin</a> ||
+    [LinkedIn]("https://www.linkedin.com/in/vishnu-basskar-v-189553151/") ||
     <a href="https://www.facebook.com/vanambasskar.5">Facebook</a> ||
     <a href="https://www.instagram.com/mr.vish_1999/">Instagram</a>
 <!--
