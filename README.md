@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 thanks for viewing my github account
 
 - 🌱 I’m currently learning  :-- Python , JavaScript , Flutter , Kotlin , C  
 - 🔭 I’m currently working on :- Simple and optimised Board games in A single website.</hr>
